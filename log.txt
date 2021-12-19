@@ -1,0 +1,19 @@
+Начало
+Соединение
+Port> 9090
+Начинаем слушать
+mkdir pap
+echo pap
+Wrong format
+rmdir pap
+Folder doesnt exist
+rmdir pap
+Folder doesnt exist
+echo Hello >> pap.txt
+Text is written inD:\Users\dvais\PycharmProjects\7.2\Maxim\pap\pap.txt
+cat pap.txt
+ls
+rm pap.txt
+ls
+cd ..
+cd ..
